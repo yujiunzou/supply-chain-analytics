@@ -9,4 +9,4 @@ End-to-end supply chain analytics project using SQL, Python, SQLite, and Power B
 > The dataset contains historical orders from May 26, 2013.
 > Freight coverage excludes 854 customer-arranged CRF orders.
 
-![Executive Overview](powerbi/screenshots/executive_overview.png)
+![Executive Overview](powerbi/screen shot/executive_overview.png)
