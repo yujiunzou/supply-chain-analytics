@@ -40,7 +40,7 @@
 
 ## Power BI Dashboard
 
-[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=[你的完整連結](https://app.powerbi.com/view?r=eyJrIjoiOTliOGQwMDQtYTdjYi00YjQ0LThmZjgtZjcwYzM4M2JkZTJmIiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9))
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTliOGQwMDQtYTdjYi00YjQ0LThmZjgtZjcwYzM4M2JkZTJmIiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9)
 
 > The dataset contains historical orders from May 26, 2013. Freight coverage excludes 854 customer-arranged CRF orders.
 
