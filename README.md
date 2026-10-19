@@ -45,21 +45,17 @@
 > The dataset contains historical orders from May 26, 2013. Freight coverage excludes 854 customer-arranged CRF orders.
 
 ## Dashboard Preview
-
-### Home Page
-
-<p align="center">
-  <img src="powerbi/screenshots/home_page.png"
-       width="75%"
-       alt="Supply Chain Analytics Home Page">
-</p>
-
 <table>
   <tr>
+    <th>Home Page</th>
     <th>Executive Overview</th>
     <th>Plant &amp; Capacity</th>
   </tr>
   <tr>
+    <td>
+      <img src="powerbi/screenshots/home_page.png"
+           alt="Home Page">
+    </td>
     <td>
       <img src="powerbi/screenshots/executive_overview.png"
            alt="Executive Overview">
@@ -72,6 +68,7 @@
   <tr>
     <th>Freight &amp; Cost</th>
     <th>Customer &amp; Product</th>
+    <th></th>
   </tr>
   <tr>
     <td>
@@ -82,6 +79,7 @@
       <img src="powerbi/screenshots/customer_product.png"
            alt="Customer and Product">
     </td>
+    <td></td>
   </tr>
 </table>
 
@@ -154,7 +152,7 @@
 
 ### Entity Relationship Diagram
 
-![Supply Chain ERD](erd/supply_chain_erd.png)
+![Supply Chain ERD](erd/supply_chain_sql_erd.png)
 
 ---
 
