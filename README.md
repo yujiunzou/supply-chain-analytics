@@ -152,7 +152,7 @@
 
 ### Entity Relationship Diagram
 
-![Supply Chain ERD](erd/supply_chain_sql_erd.png)
+[erd/supply_chain_erd.png.png](https://github.com/yujiunzou/supply-chain-analytics/blob/3b847883b888c8dbc25be384300fbb6245852bb6/erd/supply_chain_erd.png.png)
 
 ---
 
